@@ -4,3 +4,4 @@ Juegos favoritos de mesa: Rummy
 Carrera: Ingenieria Mecanica 
 Mascota: Wafflee 
 Libro favorito: Saga de Percy Jackson
+Materia: Fundamentos de programacion
